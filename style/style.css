@@ -60,7 +60,7 @@ a:hover
 blockquote
 { margin: 20px 0; 
   padding: 10px 20px 0 20px;
-  border: 1px solid #E5E5DB;
+  border: 1px solid #000000;
   background: #FFF;}
 
 ul
@@ -136,7 +136,7 @@ ol li
 { color: #00C6F0;}
 
 #logo_text a:hover .logo_colour
-{ color: #DDD;}
+{ color: #ffffff;}
 
 #logo_text h2
 { font-size: 120%;
