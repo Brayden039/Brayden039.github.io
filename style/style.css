@@ -330,7 +330,7 @@ table tr th, table tr td
   text-align: left;}
   
 table tr td
-{ background: #E5E5DB;
+{ background: #fefefe;
   color: #47433F;
   border-top: 1px solid #FFF;}
 
@@ -466,7 +466,7 @@ span.psw {
 /* Below line is used for online Google font */
 @import url(http://fonts.googleapis.com/css?family=Raleway);
 h2{
-background-color: #FEFFED;
+background-color: #Fefefe;
 padding: 30px 35px;
 margin: -10px -50px;
 text-align:center;
@@ -559,6 +559,6 @@ input[type=submit]:hover {
 /* Add a background color and some padding around the form */
 .container {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: #fefefe;
   padding: 20px;
 }
